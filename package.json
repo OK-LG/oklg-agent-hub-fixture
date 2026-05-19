@@ -1,0 +1,12 @@
+{
+  "name": "oklg-agent-hub-fixture",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sandcastle:run": "node scripts/sandcastle-run.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
